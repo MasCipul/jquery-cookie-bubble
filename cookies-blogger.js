@@ -25,7 +25,7 @@
 				iconVisibility		  					: true, 		              
 				cookiePolicyButtonText					: 'Read Our Cookie Policy',
 				cookiePolicyButtonTextColor		    	: undefined,
-				cookiePolicyButtonUrl					: 'http://allaboutcookies.org/',
+				cookiePolicyButtonUrl					: 'https://netizen.mbois.co/p/privacy-policy.html/',
 				cookiePolicyButtonTarget				: '_blank',
                        		cookiePolicyButtonRel				: 'noopener',
 				boxAppearDelay							: 1000
