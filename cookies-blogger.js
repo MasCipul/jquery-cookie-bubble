@@ -27,7 +27,7 @@
 				cookiePolicyButtonTextColor		    	: undefined,
 				cookiePolicyButtonUrl					: 'http://allaboutcookies.org/',
 				cookiePolicyButtonTarget				: '_blank',
-        cookiePolicyButtonRel				: 'noopener',
+                       		cookiePolicyButtonRel				: 'noopener',
 				boxAppearDelay							: 1000
 			}, options);
 
